@@ -1,0 +1,14 @@
+F:\VisualStudio\Protobuf\Protobuf\bin\Debug\Protobuf.exe.config
+F:\VisualStudio\Protobuf\Protobuf\bin\Debug\Protobuf.exe
+F:\VisualStudio\Protobuf\Protobuf\bin\Debug\Protobuf.pdb
+F:\VisualStudio\Protobuf\Protobuf\obj\Debug\Protobuf.csprojResolveAssemblyReference.cache
+F:\VisualStudio\Protobuf\Protobuf\obj\Debug\Protobuf.exe
+F:\VisualStudio\Protobuf\Protobuf\obj\Debug\Protobuf.pdb
+F:\VisualStudio\Protobuf\Protobuf\bin\Debug\protobuf-net.dll
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\bin\Debug\Protobuf.exe.config
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\obj\Debug\Protobuf.exe
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\obj\Debug\Protobuf.pdb
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\bin\Debug\Protobuf.exe
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\bin\Debug\Protobuf.pdb
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\bin\Debug\protobuf-net.dll
+F:\Unity3D\Projects\ProtoBuf\CShape\Protobuf\obj\Debug\Protobuf.csprojResolveAssemblyReference.cache

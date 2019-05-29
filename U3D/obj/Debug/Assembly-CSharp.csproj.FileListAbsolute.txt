@@ -1,0 +1,1 @@
+G:\Unity3D\Project\ProtoBuf\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
